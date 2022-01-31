@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @cj-asimov12
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning machine learning, deep learning and neural networks
+- 👋 Hi, Welcome to my Repository! I’m C.J.
+- 👀 I’m interested in data science and anlytics.
+- 🌱 I’m currently learning data analysis using statistical methods and machine learning. 
 - 💞️ I’m looking to collaborate on projects related to financial domain, or anything data science.
 
 <!---
