@@ -1,4 +1,4 @@
-- 👋 Hi, Welcome to my Repository! I’m C.J.
+- 👋 Hi there! I’m C.J.
 - 👀 I’m interested in data science and anlytics.
 - 🌱 I’m currently learning data analysis using statistical methods and machine learning. 
 - 💞️ I’m looking to collaborate on projects related to financial domain, or anything data science.
